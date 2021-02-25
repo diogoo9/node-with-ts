@@ -13,7 +13,7 @@ $ npx eslint --init
 $ npm i --save-dev prettier eslint-config-prettier eslint-plugin-prettier
 
 
-#run projetc 
+# run projetc 
 
 -  npm run debug(with debug)
 -  npm start
